@@ -1,6 +1,5 @@
 div#swiperInicio {
     width: 100%;
-    height: 40vh;
   }
   
   .swiper-slide {
@@ -42,6 +41,9 @@ div#swiperInicio {
 
   @media(max-width:800px){
     #swiperInicio{
+      height: 40vh;
+    }
+    div#swiperInicio{
       height: 40vh;
     }
   }
