@@ -571,7 +571,8 @@ span#ctta{
 }
 
   section#inicio{
-    height: 80vh;
+    height: 90vh;
+    background-color: lightgray;
   }
 
   section#ns{
