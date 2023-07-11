@@ -616,9 +616,9 @@ span#ctta{
     margin-left: 0px;
   }
   
-  #slider {
+  div#slider {
     display: flex;
-    align-items: end;
+    align-items: center;
     width: 100%;
   }
 
