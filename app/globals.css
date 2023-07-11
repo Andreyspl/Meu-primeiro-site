@@ -658,7 +658,7 @@ span#ctta{
   section#qsn{
     display: flex;
     text-align: center;
-    height: 100vh;
+    height: 1000px;
     margin: 0px;
     padding: 0px;
     flex-direction: column;
@@ -669,6 +669,7 @@ span#ctta{
     padding: 0px;
     display: block;
     text-align: center;
+    height: 150px;
   }
 
   p#qsnp{
@@ -679,23 +680,21 @@ span#ctta{
   }
 
   p#textao{
-    font-size: 0.73em;
+    font-size: 0.78em;
+    padding: 10px;
   }
 
   div#qsn2{
-    margin-left: 1%;
-    margin-right: 1%;
     display: flex;
     align-items: center;
     width: 100%;
   }
 
   div#allContato{
-    height: 200vh;
+    height: 1700px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
   }
 
   section#maps{
@@ -709,6 +708,9 @@ span#ctta{
 
   div#contate-nos{
     padding-top: 550px;
+    width: 90%;
+    text-align: center;
+    margin: auto;
   }
   
   section#info{
